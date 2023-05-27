@@ -1,0 +1,643 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TRUE",
+        "importPath": "pickle",
+        "description": "pickle",
+        "isExtraImport": true,
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Avg",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0001_initial",
+        "description": "book_outlet.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"Book\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "book_outlet.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0002_book_author_book_is_bestselling_alter_book_rating",
+        "description": "book_outlet.migrations.0002_book_author_book_is_bestselling_alter_book_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"book_outlet\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"book\",\n            name=\"author\",\n            field=models.CharField(max_length=100, null=True),\n        ),",
+        "detail": "book_outlet.migrations.0002_book_author_book_is_bestselling_alter_book_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0003_book_slug",
+        "description": "book_outlet.migrations.0003_book_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"book_outlet\", \"0002_book_author_book_is_bestselling_alter_book_rating\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"book\",\n            name=\"slug\",\n            field=models.SlugField(default=\"\"),\n        ),",
+        "detail": "book_outlet.migrations.0003_book_slug",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0004_author_alter_book_slug_alter_book_author",
+        "description": "book_outlet.migrations.0004_author_alter_book_slug_alter_book_author",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"book_outlet\", \"0003_book_slug\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Author\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "book_outlet.migrations.0004_author_alter_book_slug_alter_book_author",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0005_alter_book_author",
+        "description": "book_outlet.migrations.0005_alter_book_author",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"book_outlet\", \"0004_author_alter_book_slug_alter_book_author\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"book\",\n            name=\"author\",\n            field=models.ForeignKey(\n                null=True,",
+        "detail": "book_outlet.migrations.0005_alter_book_author",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0006_address_author_address",
+        "description": "book_outlet.migrations.0006_address_author_address",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"book_outlet\", \"0005_alter_book_author\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Address\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "book_outlet.migrations.0006_address_author_address",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "book_outlet.migrations.0007_country_alter_address_options_and_more",
+        "description": "book_outlet.migrations.0007_country_alter_address_options_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"book_outlet\", \"0006_address_author_address\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Country\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "book_outlet.migrations.0007_country_alter_address_options_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "BookAdmin",
+        "kind": 6,
+        "importPath": "book_outlet.admin",
+        "description": "book_outlet.admin",
+        "peekOfCode": "class BookAdmin(admin.ModelAdmin):\n    prepopulated_fields = {\"slug\": (\"title\",)}\n    list_filter = (\"author\", \"rating\",)\n    list_display = (\"title\", \"author\",)\nadmin.site.register(Book, BookAdmin)\nadmin.site.register(Author)\nadmin.site.register(Address)\nadmin.site.register(Country)",
+        "detail": "book_outlet.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BookOutletConfig",
+        "kind": 6,
+        "importPath": "book_outlet.apps",
+        "description": "book_outlet.apps",
+        "peekOfCode": "class BookOutletConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"book_outlet\"",
+        "detail": "book_outlet.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Country",
+        "kind": 6,
+        "importPath": "book_outlet.models",
+        "description": "book_outlet.models",
+        "peekOfCode": "class Country(models.Model):\n    name = models.CharField(max_length = 80)\n    code = models.CharField(max_length = 2)\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name_plural = \"Countries\"\nclass Address(models.Model):\n    street = models.CharField(max_length=80)\n    postal_code = models.CharField(max_length=5)",
+        "detail": "book_outlet.models",
+        "documentation": {}
+    },
+    {
+        "label": "Address",
+        "kind": 6,
+        "importPath": "book_outlet.models",
+        "description": "book_outlet.models",
+        "peekOfCode": "class Address(models.Model):\n    street = models.CharField(max_length=80)\n    postal_code = models.CharField(max_length=5)\n    city = models.CharField(max_length=50)\n    def __str__(self):\n        return f\"{self.street}, {self.postal_code}, {self.city}\"\n    class Meta:\n        verbose_name_plural = \"Address Entries\"\nclass Author(models.Model):\n    first_name = models.CharField(max_length=100)",
+        "detail": "book_outlet.models",
+        "documentation": {}
+    },
+    {
+        "label": "Author",
+        "kind": 6,
+        "importPath": "book_outlet.models",
+        "description": "book_outlet.models",
+        "peekOfCode": "class Author(models.Model):\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    address = models.OneToOneField(Address, on_delete=models.CASCADE, null=True)\n    def full_name(self):\n        return f\"{self.first_name} {self.last_name}\"\n    def __str__(self):\n        return self.full_name()\nclass Book(models.Model):\n    title = models.CharField(max_length=50)",
+        "detail": "book_outlet.models",
+        "documentation": {}
+    },
+    {
+        "label": "Book",
+        "kind": 6,
+        "importPath": "book_outlet.models",
+        "description": "book_outlet.models",
+        "peekOfCode": "class Book(models.Model):\n    title = models.CharField(max_length=50)\n    rating = models.IntegerField(\n        validators=[MinValueValidator(1), MaxValueValidator(5)])\n    author = models.ForeignKey(Author, on_delete=models.CASCADE, null=True, related_name=\"books\")\n    is_bestselling = models.BooleanField(default=False)\n    slug = models.SlugField(default=\"\", blank = True, null=False, db_index=True) # Harry Potter 1 => harry-potter-1\n    published_countries = models.ManyToManyField(Country, null=False)\n    def get_absolute_url(self):\n        return reverse(\"book-detail\", args=[self.slug])",
+        "detail": "book_outlet.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "book_outlet.urls",
+        "description": "book_outlet.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.index),  \n    path(\"<slug:slug>\", views.book_detail, name=\"book-detail\")  \n]",
+        "detail": "book_outlet.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "book_outlet.views",
+        "description": "book_outlet.views",
+        "peekOfCode": "def index(request):\n    books = Book.objects.all().order_by(\"-rating\")\n    num_books = books.count()\n    avg_rating = books.aggregate(Avg(\"rating\")) # rating__avg\n    return render(request, \"book_outlet/index.html\", {\n        \"books\":books,\n        \"total_number_of_books\": num_books,\n        \"average_rating\": avg_rating\n    })\ndef book_detail(request, slug):",
+        "detail": "book_outlet.views",
+        "documentation": {}
+    },
+    {
+        "label": "book_detail",
+        "kind": 2,
+        "importPath": "book_outlet.views",
+        "description": "book_outlet.views",
+        "peekOfCode": "def book_detail(request, slug):\n    #try:\n    #    book = Book.objects.get(pk=id)\n    #except:\n    #    raise Http404()\n    book = get_object_or_404(Book, slug=slug)\n    return render(request, \"book_outlet/book_detail.html\", {\n        \"title\": book.title,\n        \"author\": book.author,\n        \"rating\": book.rating,",
+        "detail": "book_outlet.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "book_store.asgi",
+        "description": "book_store.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "book_store.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-qgso9#1cj^!qnteih*_k2^5laob5j5!e)x)hx9_ds2n*!ya71)'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-qgso9#1cj^!qnteih*_k2^5laob5j5!e)x)hx9_ds2n*!ya71)'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'book_outlet',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'book_outlet',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'book_outlet',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'book_outlet',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'book_store.urls'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "ROOT_URLCONF = 'book_store.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'book_store.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "book_store.settings",
+        "description": "book_store.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "book_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "book_store.urls",
+        "description": "book_store.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\", include(\"book_outlet.urls\"))\n]",
+        "detail": "book_store.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "book_store.wsgi",
+        "description": "book_store.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "book_store.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'book_store.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
